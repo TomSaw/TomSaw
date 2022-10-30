@@ -2,7 +2,7 @@
 - 👀 I’m interested in defaults
 - 🌱 I’m currently learning defaults
 - 💞️ I’m looking to collaborate on defaults
-- 📫 How to reach me: here
+- 📫 How to reach me: thomas@tomsaw.de
 
 <!---
 TomSaw/TomSaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
